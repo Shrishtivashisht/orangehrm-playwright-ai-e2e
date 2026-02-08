@@ -1,6 +1,6 @@
 
 # OrangeHRM – Prompt‑Driven AI Automation Framework (Playwright + TypeScript)
-
+Status: Stable | Production-style E2E | Real-world SPA handling
 This project demonstrates **AI‑assisted automation development** using a
 **prompt‑driven workflow** with GitHub Copilot / LLMs.
 
